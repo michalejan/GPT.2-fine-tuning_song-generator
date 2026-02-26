@@ -1,4 +1,5 @@
 NLP Song Lyrics Generator 🎶
+
 This repository contains a Google Colab notebook designed to generate rhyming blues song lyrics using a fine-tuned GPT-2 model. It leverages Low-Rank Adaptation (LoRA) for efficient fine-tuning on a specialized dataset.
 
 1. Features
