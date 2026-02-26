@@ -38,4 +38,5 @@ Finds phonetic rhymes from subsequent generated text to build a cohesive verse.
 Censors the output for a clean final result.
 
 4. Evaluation
+
 The notebook includes a comparison between the Raw GPT-2 Small model and the Fine-tuned version. While the raw model often produces generic text or unrelated snippets, the fine-tuned model generates structured, genre-appropriate blues lyrics with consistent rhyming schemes.
